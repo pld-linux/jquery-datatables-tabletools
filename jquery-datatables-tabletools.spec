@@ -2,7 +2,7 @@
 Summary:	DataTables tabletools plugin
 Name:		jquery-datatables-%{plugin}
 Version:	2.2.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 # Source0Download: https://datatables.net/download/index#TableTools
